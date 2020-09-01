@@ -1,0 +1,87 @@
+---
+booktitle: Proceedings of the First International Workshop on Self-Supervised Learning
+shortname: iwssl
+volume: 131
+year: '2020'
+start: 2020-02-27
+end: 2020-02-28
+published: 2020-09-01
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: IWSSL-2020
+month: 0
+cycles: false
+bibtex_editor: Minsky, Henry and Robertson, Paul and Georgeon, Olivier L. and Minsky,
+  Milan and Shaoul, Cyrus
+editor:
+- given: Henry
+  family: Minsky
+- given: Paul
+  family: Robertson
+- given: Olivier L.
+  family: Georgeon
+- given: Milan
+  family: Minsky
+- given: Cyrus
+  family: Shaoul
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the First International Workshop on Self-Supervised Learning
+    Held in Cambridge, Massachusetts, USA on 27-28 February 2020
+
+  Published as Volume 131 by the Proceedings of Machine Learning Research on 01 September 2020.
+
+  Volume Edited by:
+    Henry Minsky
+    Paul Robertson
+    Olivier L. Georgeon
+    Milan Minsky
+    Cyrus Shaoul
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 27--28 Feb
+author:
+  name: PMLR
+baseurl: "/v131"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v131
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: International Workshop on Self-Supervised Learning
+  url: 
+  location: Cambridge, Massachusetts, USA
+  dates:
+  - 2020-02-27
+  - 2020-02-28
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v131/IWSSL2020.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v131/IWSSL2020.bib
